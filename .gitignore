@@ -1,0 +1,53 @@
+## Ignore Visual Studio temporary files, build results, and
+## user-specific files
+
+# Build results
+bin/
+obj/
+
+# VS Code workspace settings
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Build artifacts
+*.dll
+*.exe
+*.pdb
+*.cache
+*.mdb
+*.dbmdl
+
+# Test results
+TestResults/
+
+# Auto-generated files
+Generated_Code/
+
+# Package directories
+packages/
+.nuget/
+
+# DotNet CLI
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Rider
+.idea/
+
+# Local history and backups
+*.orig
+*.bak
+*.tmp
+
+
+# VS 2022 Preview artifacts
+.vs/
